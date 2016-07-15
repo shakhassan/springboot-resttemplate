@@ -1,1 +1,1 @@
-echo Spring Boot RestTemplate
+Spring Boot RestTemplate
